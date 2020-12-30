@@ -1,0 +1,53 @@
+.slider h3, .slider h5, .support {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.support img {
+    max-width: 120px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,.8));
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+.portfolio img {
+    border-radius: 50px;
+}
+
+.slides h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6);
+    display: inline;
+    background-image: linear-gradient( rgb(219, 100, 0),  rgb(219, 100, 0));
+    background-size: 0% 20px;
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    transition: background .5s ease-out;
+}
+  
+.slides h5:hover {
+    background-size: 100% 20px;
+}
+
+.about, .support, .portfolio, .contact, .sidenav, .navbar-fixed {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about, .support, .portfolio {
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.6);
+}
+
+
+
+
+
