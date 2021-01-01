@@ -51,5 +51,19 @@ label {
     margin-left: 5px;
 }
 
+footer p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+.footer_tittle {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.footer_social {
+    font-size: 3.5rem;
+    color: #fff;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
 
